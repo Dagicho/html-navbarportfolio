@@ -1,0 +1,53 @@
+#Introduction-Home{
+    background-color: rgba(215, 205, 205, 0.804);
+    padding-left: 0px;
+    padding-right:0;
+    padding-top: 233px;
+    padding-bottom: 233px;
+
+    text-align: center;
+}
+.navbarcs{
+    background-color:rgb(248, 245, 245); ;
+}
+.dropdown-button{
+color:rgb(197, 183, 185); ;
+}
+h1{
+    font-size: 5.5rem;
+    padding-bottom: 1.5rem;
+    font-weight: dark;
+}
+.navigation-bar-listed-items{
+    color: aquamarine;
+}
+p{
+    padding-left: 15rem;
+    padding-right: 15rem;
+    font-size: 1rem;
+    line-height: 1.95rem;
+    font-size: 1.12rem;
+
+}
+#information{
+    background-color: rgba(142, 132, 132, 0.265);
+    padding-left: 0px;
+    padding-right:0;
+    padding-top: 233px;
+    padding-bottom: 233px;
+    text-align: center;
+}
+#work{
+    background-color: rgb(82, 75, 76);
+    padding-left: 0px;
+    padding-right:0;
+    padding-top: 233px;
+    padding-bottom: 233px;
+    text-align: center;
+}
+.h1-in-work{
+    color: aliceblue;
+}
+.paragraph-in-work{
+    color: aliceblue;
+}
